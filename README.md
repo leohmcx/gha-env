@@ -5,11 +5,19 @@ Useful links
 - Syntax: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsshell
 - Mongo: https://cloud.mongodb.com
 
+- Repository environments:
 
-- Which menu is the secrets:
+![](readme-images/repository-environments.png?raw=true)
 
-![](secrets.png?raw=true)
+- Which menu is the secrets/variables:
+
+![](readme-images/secrets.png?raw=true)
+
+- Which menu is the environments:
+
+![](readme-images/environments.png?raw=true)
+
 
 - Course summary:
 
-![](summary.png?raw=true)
+![](readme-images/ummary.png?raw=true)
