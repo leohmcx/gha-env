@@ -20,4 +20,4 @@ Useful links
 
 - Course summary:
 
-![](readme-images/ummary.png?raw=true)
+![](readme-images/summary.png?raw=true)
